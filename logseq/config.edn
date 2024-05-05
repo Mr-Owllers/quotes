@@ -421,7 +421,7 @@
  :file/name-format :triple-lowbar
  :journal/page-title-format "MMM do, yyyy"
  :editor/logical-outdenting? true
- :publishing/all-pages-public? true
+ :publishing/all-pages-public? false
  :graph/settings {:journal? true
  :builtin-pages? true
  :excluded-pages? true
