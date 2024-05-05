@@ -1,4 +1,5 @@
-/logseq
-/journals
-/pages
-/whiteboards
+logseq/
+journals/
+pages/
+whiteboards/
+!pages/quotes.md
