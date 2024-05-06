@@ -7,9 +7,5 @@ public:: true
 - "Only **time** can heal what reason cannot." Lucius Seneca #quotes
 - "The **more** we value things outside our control, the **less** control we have" Marcus Aurelius #quotes
 - "If you want to **improve**, be content to be thought **foolish** and **stupid**" Epictetus #quotes
-<<<<<<< HEAD
-- "If you were answered with **silence**, this does not mean that you were not answered." Plato #quotes
-=======
 - "If you were answered with **silence**, this does not mean that you were not answered." Plato #quotes
 - "You are never too old to set another goal or to dream a new dream" C.S. Lewis #quotes
->>>>>>> 2d1bd8581cc1d6189c7b554aaa8e8d8907290550
