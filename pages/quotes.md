@@ -6,6 +6,3 @@
 - "The **more** we value things outside our control, the **less** control we have" Marcus Aurelius #quotes
 - "If you want to **improve**, be content to be thought **foolish** and **stupid**" Epictetus #quotes
 - "If you were answered with **silence**, this does not mean that you were not answered." Plato #quotes
-- public:: true
-  publish:: true
--
